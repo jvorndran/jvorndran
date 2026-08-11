@@ -3,7 +3,7 @@
 Hey 👋 I’m Jacob, a Software Engineer at **Dun & Bradstreet** and an M.S. in Artificial Intelligence student at **Georgia Tech**. Here’s some more about me:
 
 - 💻 I build reliable web platforms, developer tools, and applied-AI systems—with an emphasis on performance, data, and pragmatic product engineering.
-- 🔭 At **Dun & Bradstreet**, I work across AEM, SSR, web performance, Cloudflare, and developer tooling.
+- 🔭 I’m on the **Digital Marketing team** at **Dun & Bradstreet**.
 - ☁️ I’m a **Google Cloud Certified Associate Cloud Engineer** and enjoy the infrastructure behind dependable applications.
 - 📈 I’m deeply interested in macroeconomics, valuation, market structure, and the systems that turn raw information into usable research.
 - 🧪 I have a private DeMark-based market-timing implementation for research and experimentation; happy to discuss the backtesting and engineering approach.
@@ -122,8 +122,8 @@ Hey 👋 I’m Jacob, a Software Engineer at **Dun & Bradstreet** and an M.S. in
 <details>
   <summary><strong>Software Engineer – Dun & Bradstreet</strong></summary>
 
-- Build and support web-platform capabilities across Adobe Experience Manager, server-side rendering, Cloudflare, web performance, and developer tooling.
-- Work at the intersection of scalable delivery, maintainable front-end systems, and dependable developer experience.
+- Part of Dun & Bradstreet’s **Digital Marketing team**.
+- Help build and support the company’s web-platform capabilities and digital experiences.
 
 </details>
 
@@ -135,5 +135,5 @@ Hey 👋 I’m Jacob, a Software Engineer at **Dun & Bradstreet** and an M.S. in
 | **[🧠 Deep Brief](https://app.mydeepbrief.com/)** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/> Next.js · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/> FastAPI · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/> GCP | Live macro-research agent that produces evidence-backed reports with sources, saved context, and follow-up analysis. |
 | **[📊 Kalshi CLI](https://github.com/jvorndran/kalshi-cli)** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/> JavaScript · CLI | Agent-first, zero-dependency CLI for read-only access to public Kalshi market data, including discovery, order books, trades, candlesticks, and history. |
 | **[🏈 FBS CLI](https://github.com/jvorndran/fbs-cli)** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/> TypeScript · Node.js | Published CLI for structured, read-only CollegeFootballData access across schedules, stats, recruiting, rankings, and historical context. |
-| **[🤖 CFB Betting Skills](https://github.com/jvorndran/cfb-betting-skills)** | Agent Skills · Market data · Research | Reusable agent-skill collection for college-football research, market analysis, player props, and DFS workflows—with explicit read-only and no-wagering boundaries. |
+| **[🌐 Personal Website](https://github.com/jvorndran/personal-website-main)** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro"/> Astro · Tailwind CSS · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js"/> Three.js | Personal portfolio site built with Astro, Tailwind CSS, and an optional Three.js visual background. |
 | **[📈 Valuation Metrics Table](https://www.tradingview.com/script/AR1mxfOy-Valuation-Metrics-Table-P-S-P-E-etc/)** | <img width="15" src="https://cdn.simpleicons.org/tradingview/131722" alt="TradingView"/> Pine Script · TradingView | Open-source indicator for exploring valuation metrics and five-year historical medians directly in TradingView. |
